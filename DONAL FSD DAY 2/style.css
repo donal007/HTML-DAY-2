@@ -1,0 +1,14 @@
+#R80{
+    color: rgb(163, 228, 88);
+    text-align: left;
+}
+.BOX{
+    border: 7px solid  rgb(255, 94, 0);
+    padding: 30px;
+    padding-left: 50px;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 30%;
+    background-color: rgb(60, 122, 146);
+}

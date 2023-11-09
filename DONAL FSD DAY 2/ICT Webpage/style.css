@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+     
+    background-image: url(./images/superman.jpg);
+    background-size: cover;
+
+}
+
+header {
+    background-color: rgb(82, 80, 76);
+
+}
+
+
+.navigation {
+    float: right;
+    margin-top: 1%;
+    padding-right: 4%;
+    
+}
+.navigation a{
+    color: whitesmoke;
+   
+    border: 2px dotted white;
+    text-decoration: none;
+}
+.navigation a{
+    background-color: aqua;
+    color: black    ;
+
